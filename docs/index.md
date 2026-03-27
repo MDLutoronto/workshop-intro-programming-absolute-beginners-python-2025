@@ -8,6 +8,11 @@ staff:
    link: https://library.utoronto.ca/staff/kelly-schultz
  - name: Kara Handren
    link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+ - name: Kelly Schultz
+   link: https://library.utoronto.ca/staff/kelly-schultz
+ - name: Kara Handren
+   link: https://library.utoronto.ca/staff/kara-handren
 ---
 
 # Workshop Recording: An Introduction to Programming for Absolute Beginners Using Python Pt. 1 (March 2025)
