@@ -28,6 +28,6 @@ This page provides a video recording of the first part of an introductory worksh
 
 [**Recording \- 1:37:57**](https://play.library.utoronto.ca/watch/b38ebfc6c8a6ac0da313b628e0300c05)**,** [**Setup Instructions**](https://maps.library.utoronto.ca/workshops/PythonPart1/SetupInstructions.pdf) **(includes how to get slides, workshop files, handouts, etc.), &** [**Solutions**](https://maps.library.utoronto.ca/workshops/PythonPart1/WorkshopSolutions.zip) **(zip folder)**
 
-Tools: [Python](/tools/python)
+**Tools:** [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-04\-28
